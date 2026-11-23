@@ -2,6 +2,7 @@
   "signals": {},
   "skipped": {
     "sell|2026-11-23 02:40": "missed",
-    "sell|2026-11-23 08:00": "stale"
+    "sell|2026-11-23 08:00": "stale",
+    "sell|2026-11-23 20:45": "against trend"
   }
 }
