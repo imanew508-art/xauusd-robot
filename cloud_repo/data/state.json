@@ -1,4 +1,7 @@
 {
   "signals": {},
-  "skipped": {}
+  "skipped": {
+    "sell|2026-11-23 02:40": "missed",
+    "sell|2026-11-23 08:00": "stale"
+  }
 }
