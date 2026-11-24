@@ -1,5 +1,34 @@
 {
-  "signals": {},
+  "signals": {
+    "sell|2026-11-24 13:40": {
+      "level": "LON_H",
+      "also_swept": [],
+      "side": "sell",
+      "sweep_time": "2026-11-24 12:40",
+      "mss_time": "2026-11-24 13:40",
+      "entry": 3639.25,
+      "entry_type": "FVG midpoint",
+      "stop": 3646.48,
+      "scan_after": "2026-11-24 13:05",
+      "id": "sell|2026-11-24 13:40",
+      "date": "2026-11-24",
+      "risk": 7.23,
+      "trend": "down",
+      "events": [
+        "signal"
+      ],
+      "log": [
+        [
+          "signal",
+          "2026-11-24 13:45",
+          3639.25
+        ]
+      ],
+      "tp1": 3632.02,
+      "tp2": 3624.79,
+      "tp3": 3617.56
+    }
+  },
   "skipped": {
     "sell|2026-11-23 02:40": "missed",
     "sell|2026-11-23 08:00": "stale",
