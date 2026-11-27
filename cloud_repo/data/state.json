@@ -183,6 +183,7 @@
     "sell|2026-11-26 05:45": "against trend",
     "sell|2026-11-26 15:50": "against trend",
     "sell|2026-11-27 12:45": "against trend",
-    "sell|2026-11-27 12:50": "invalidated"
+    "sell|2026-11-27 12:50": "invalidated",
+    "sell|2026-11-27 13:10": "against trend"
   }
 }
